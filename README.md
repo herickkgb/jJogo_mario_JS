@@ -1,2 +1,2 @@
-# jJogo_mario_JS
+# Jogo_mario_JS
 Mario
